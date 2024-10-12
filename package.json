@@ -9,7 +9,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "vercel-build": "next build"
   },
   "dependencies": {
     "@dialectlabs/sdk": "^1.9.4",
